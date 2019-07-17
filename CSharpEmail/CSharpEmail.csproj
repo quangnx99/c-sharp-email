@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Tuan Cao</Authors>
+    <Company>C-Sharp.vn</Company>
+    <Description>Send email from .NET Core. A bunch of useful extension packages make this dead simple and very powerful.</Description>
+    <PackageProjectUrl>https://github.com/quoctuancqt/c-sharp-email</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/quoctuancqt/c-sharp-email</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

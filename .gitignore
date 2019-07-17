@@ -351,3 +351,5 @@ MigrationBackup/
 /Demo.NotificationService/appsettings.Development.json
 /Demo.ProductService/appsettings.Development.json
 /Demo.WorkerService/appsettings.Development.json
+/CSharpEmail.Example.SendGrid/appsettings.Development.json
+/CSharpEmail.Example.SmtpClient/appsettings.Development.json
