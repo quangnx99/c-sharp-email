@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSharpEmail.Example.SmtpClient": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

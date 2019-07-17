@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSharpEmail.Example.SendGrid": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
