@@ -45,6 +45,7 @@
     {
         public EmailSmtp(SmtpOptions smtpOptions)
         {
+            UseDefaultCredentials = false;
             Credentials = new NetworkCredential
             {
                 UserName = smtpOptions.UserName,

@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/quoctuancqt/c-sharp-email</PackageProjectUrl>
     <RepositoryUrl>https://github.com/quoctuancqt/c-sharp-email</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
