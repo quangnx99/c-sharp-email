@@ -5,7 +5,7 @@ Send email from .NET Core. A bunch of useful extension packages make this dead s
 ## Installation
 
 ```bash
-Install-Package CSharpEmail -Version 1.0.0
+Install-Package CSharpEmail -Version 5.0.0
 ```
 
 ## Usage
